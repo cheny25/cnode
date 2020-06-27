@@ -1,5 +1,9 @@
 # mycnode
 
+###2018年12月仿写的CNODE论坛
+
+技术栈：Vue+vuex+vue-router+element-ui+vue-jsonp
+
 > A Vue.js project
 
 ## Build Setup
